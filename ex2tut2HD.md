@@ -4,25 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-compatible" content="IE-edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <style>
-      .heading {
-          font-family: Arial, Helvetica, sans-serif; 
-      }
-      .body {
-          font-family: Georgia, 'Times New Roman', Times, serif;
-          border-bottom: 1.5px solid lightgray;
-      }
-      .footer {
-          margin-top: 15px;
-          color: gray;
-          font-family: 'Times New Roman', Times, serif;
-          font-size: 18px; 
-      }
-      .yellow {
-          color: #ffc200;
-      }
-      </style>
+    
 </head>
 <div class="heading">
 <h1>PAUL MCFEDRIES</h1>
